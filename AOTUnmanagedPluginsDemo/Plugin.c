@@ -1,5 +1,4 @@
 /**
- * plugin.c — нативный модуль (плагин) на C
  *
  * Exports some functions that loaded by host (.NET program) dynamically.
  * plugin_compute function acts like the long-running operation via sleep.
